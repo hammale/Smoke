@@ -1,0 +1,8 @@
+name: Smoke
+main: me.hammale.Smoke.Smoke
+version: 1.0
+author: hammale
+commands:
+  smoke:
+    description:
+    usage: |
